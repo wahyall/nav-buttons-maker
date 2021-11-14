@@ -1,0 +1,21 @@
+{
+  "name": "nav-button-bellshade",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "dom-to-image": "^2.6.0",
+    "firebase": "^9.4.1",
+    "prismjs": "^1.25.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "sass": "^1.43.4",
+    "vite": "^2.6.4"
+  }
+}

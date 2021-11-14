@@ -1,0 +1,16 @@
+.app {
+  min-height: 100vh;
+
+  nav {
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding: 0.75rem 0;
+  }
+
+  .container {
+    width: 780px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 2rem;
+  }
+}
